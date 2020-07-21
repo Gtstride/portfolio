@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Godstime .O. Agho",
+    "description": "I am a Web Development Engineer and I use React for frontend, Nodejs/Express for backend, mongodb, postgresql & firebase to manage your database with top-notch security. This project is my profile that can be shared, and used, but don't forget to reference us.",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Give me a call and let me help you shoot your business to the world and help you create that visibility and credibilty you have long been looking for.",
+    "email": "lewisagho47@gmail.com",
+    "phone": "+234-803-941-5912",
+    "github": "https://github.com/Gtstride/",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(3, Ijaiye Road, Opposite Mobil Filling Station, Ogba Lagos - Nigeria)",
+      "city": "Ikeja",
+      "state": "Lagos State",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.gtstride.com",
+    "resumedownload": "https://drive.google.com/file/d/1Lc4rKUtPJKB5Ji501KEcooraZPQTbCyx/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/GTstride.godstime.omo.E.Agho",
+        "className": "fa fa-facebook",
+        "target": "_blank"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/home",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Mongodb",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "85%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "OneScrin",
+        "category": "Productivity",
+        "image": "Chat in one place",
+        "url": "https://account.onescrin.com.ng/"
+      },
+      {
+        "title": "Fight Pandemics",
+        "category": "Helping the world fight every pandemics that would arise",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.fightpandemic.com/"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
