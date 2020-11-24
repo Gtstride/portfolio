@@ -1,32 +1,33 @@
 {
   "main": {
-    "name": "Godstime .O. Agho",
-    "description": "I am a Web Development Engineer and I use React for frontend, Nodejs/Express for backend, mongodb, postgresql & firebase to manage your database with top-notch security. This project is my profile that can be shared, and used, but don't forget to reference us.",
+    "name": "Godstime Agho",
+    "description": "I'm a freelance Web Engineer,I use React for frontend, Nodejs/Express for backend, mongodb, postgresql & firebase to manage your database with top-notch security. This is my profile, a project that can be shared & used, but don't forget to reference us.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Give me a call and let me help you shoot your business to the world and help you create that visibility and credibilty you have long been looking for.",
+    "bio": "I'm godstime, popularly called GT, and I am a Software Engineer, an Administrative Manager / Co-founder at eespace Nigeria, a Media Consultant and enthusiast. I love helping people, making sure people feel safe around me and love using technology to get problem solved, that is  one of the major reason, i found myself in tech. Generally, i love technology, love travelling, making friends and i love seeing people happy.",
+    "contactmessage": "I am just a call away to helping you show-case your business to the world. Just a Call !.",
     "email": "lewisagho47@gmail.com",
     "phone": "+234-803-941-5912",
     "github": "https://github.com/Gtstride/",
-    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/Gtstride/portfolio",
     "address": {
-      "street": "(3, Ijaiye Road, Opposite Mobil Filling Station, Ogba Lagos - Nigeria)",
+      "street": "3, Ijaiye Road, Opposite Mobil Filling Station, Ogba Lagos - Nigeria",
       "city": "Ikeja",
       "state": "Lagos State",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "100001"
     },
     "website": "http://www.gtstride.com",
     "resumedownload": "https://drive.google.com/file/d/1Lc4rKUtPJKB5Ji501KEcooraZPQTbCyx/view?usp=sharing",
+    "resumedownloadOne": "https://drive.google.com/file/d/1CxlnV-r0babLRop3uPuIfE76sgCYALST/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/GTstride.godstime.omo.E.Agho",
+        "url": "https://www.facebook.com/gtstride",
         "className": "fa fa-facebook",
         "target": "_blank"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/home",
+        "url": "https://twitter.com/gtstride",
         "className": "fa fa-twitter"
       },
       {
@@ -36,12 +37,12 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/gtstride",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/Gtstride",
         "className": "fa fa-github"
       }
     ]
@@ -50,40 +51,28 @@
     "skillmessage": "Listed below are some of the technologies and not limited to, that i work with.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Education Background",
+        "degree": "Download attached resume for eduaction details"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Work History / Years of Experience",
+        "title": "Download attached resume for work history details "
       }
     ],
     "skills": [
+      {
+        "name": "HTML",
+        "level": "97%"
+      },
       {
         "name": "Javascript",
         "level": "85%"
       },
       {
         "name": "Python",
-        "level": "40%"
+        "level": "30%"
       },
       {
         "name": "ReactJs",
@@ -104,6 +93,14 @@
       {
         "name": "Express",
         "level": "80%"
+      },
+      {
+        "name": "Android Studio",
+        "level": "50%"
+      },
+      {
+        "name": "Different React Frame-Work",
+        "level": "85%"
       }
     ]
   },
