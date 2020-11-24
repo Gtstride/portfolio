@@ -1,10 +1,10 @@
-# Godstime O.A Resume     
-
+# Godstime O.A Resume
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple, and anyone can explore.
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple, and anyone can explore
+
+![img](https://github.com/Gtstride/particles-bg/raw/develop/image/03.jpg?raw=true)
 
 ## Run Project
 ### 1. Clone the project
