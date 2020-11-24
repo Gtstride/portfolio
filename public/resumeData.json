@@ -47,7 +47,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Listed below are some of the technologies and not limited to, that i work with.",
     "education": [
       {
         "school": "University?",
@@ -110,34 +110,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "OneScrin",
-        "category": "Productivity",
-        "image": "Chat in one place",
-        "url": "https://account.onescrin.com.ng/"
-      },
-      {
         "title": "Fight Pandemics",
         "category": "Helping the world fight every pandemics that would arise",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.fightpandemic.com/"
+        "image": "fightpandemic.png",
+        "url": "https://fightpandemics.com/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Crown-CLothing",
+        "category": "Latest Fashion at your Finger-tip",
+        "image": "Shirt.png",
+        "url": "https://crowns-clothing.netlify.app/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "TMSN-RECORDS",
+        "category": "The Best Music Anywhere you can get",
+        "image": "short.png",
+        "url": "https://tmsnrecs.com/"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Farm Lord",
+        "category": "Connecting Land-owners to Subsistence Farmers",
+        "image": "farmLord.jpg",
+        "url": "https://farmlord.netlify.app/"
+      },
+      {
+        "title": "OneScrin",
+        "category": "All chat in one room",
+        "image": "onescrin.png",
+        "url": "https://onescrinweb.netlify.app/"
       }
     ]
   }
