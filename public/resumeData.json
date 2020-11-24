@@ -32,7 +32,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/godstime-omorogbe-agho-811294b1/",
         "className": "fa fa-linkedin"
       },
       {
@@ -81,6 +81,14 @@
       {
         "name": "CSS",
         "level": "90%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Styled-CSS",
+        "level": "60%"
       },
       {
         "name": "Mongodb",
@@ -135,6 +143,30 @@
         "category": "All chat in one room",
         "image": "onescrin.png",
         "url": "https://onescrinweb.netlify.app/"
+      },
+      {
+        "title": "Dev Center",
+        "category": "Developer's World",
+        "image": "Dev.jpg",
+        "url": "https://afternoon-caverns-04028.herokuapp.com/"
+      },
+      {
+        "title": "Movie Site",
+        "category": "Get all the Information about your favorite movie in one place",
+        "image": "Use.jpg",
+        "url": "https://react-movie-app1.herokuapp.com/"
+      },
+      {
+        "title": "WaYFarer",
+        "category": "Develop APIs ",
+        "image": "way.jpg",
+        "url": "https://way-farer-app1.herokuapp.com/"
+      },
+      {
+        "title": "Movie Site",
+        "category": "Get all the Information about your favorite movie in one place",
+        "image": "Use.jpg",
+        "url": "https://react-movie-app1.herokuapp.com/"
       }
     ]
   }
