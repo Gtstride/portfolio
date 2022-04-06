@@ -3,7 +3,7 @@
   "version": "0.1.2^",
   "engine": {
     "node": "^17.5.0",
-    "yarn": "1.22.x"
+    "yarn": "1.22.18"
   },
   "homepage": "./",
   "private": true,
