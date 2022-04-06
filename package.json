@@ -2,7 +2,8 @@
   "name": "personalportfolio",
   "version": "0.1.2^",
   "engine": {
-    "node": "^17.5.0"
+    "node": "^17.5.0",
+    "yarn": "1.22.x"
   },
   "homepage": "./",
   "private": true,
