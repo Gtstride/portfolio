@@ -3,8 +3,7 @@
   "version": "0.1.2^",
   "engines": {
     "node": "14.x",
-    "npm": "^8.4.1",
-    "yarn": "1.22.17"
+    "npm": "^8.4.1"
   },
   "homepage": "./",
   "private": true,
