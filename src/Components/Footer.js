@@ -19,9 +19,9 @@ class Footer extends Component {
            </ul>
 
             <ul className="copyright">
-               <li>All Rights Reserved. Design by <a title="Styleshout" href="http://www.gt-strides.com/" target="_blank"
+               <li>All Rights Reserved. Design by <a title="Styleshout" href="http://www.elynore.com/" target="_blank"
               rel="noopener noreferrer">Godstime O. Agho </a></li>
-              <li>&copy; Copyright {new Date().getFullYear()} Web App Developer</li>
+              <li>&copy; Copyright {new Date().getFullYear()} Software Engineer</li>
            </ul>
 
         </div>

@@ -1,4 +1,4 @@
-# Godstime O.A Resume
+# Godstime O.Agho Resume
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) library
 

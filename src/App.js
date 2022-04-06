@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+import { ChakraProvider } from '@chakra-ui/react';
 
 class App extends Component {
 
@@ -44,7 +45,8 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <ChakraProvider>
+        <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
@@ -52,6 +54,8 @@ class App extends Component {
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
+      </ChakraProvider>
+
     );
   }
 }

@@ -1,23 +1,24 @@
 {
   "main": {
     "name": "Godstime Agho",
-    "description": "I'm a freelance Web Engineer,I use React for frontend, Nodejs/Express for backend, mongodb, postgresql & firebase to manage your database with top-notch security. This is my profile, a project that can be shared & used, but don't forget to reference us.",
-    "image": "profilepic.jpg",
-    "bio": "I'm godstime, popularly called GT, and I am a Software Engineer, an Administrative Manager / Co-founder at eespace Nigeria, a Media Consultant and enthusiast. I love helping people, making sure people feel safe around me and love using technology to get problem solved, that is  one of the major reason, i found myself in tech. Generally, i love technology, love travelling, making friends and i love seeing people happy.",
-    "contactmessage": "I am just a call away to helping you show-case your business to the world. Just a Call !.",
+    "description": "I am a Software Engineer. I use React to structure frontend, Nodejs/Express for backend, mongodb, postgresql, firebase, AWS to manage your database with top-notch security. I am also grasping much needed knowledge on flutter for cross-platform mobile apps. This here, is my profile, can't really be exhaustive. But a one-to-one interaction with me, would actually be better. This project is one, that can be cloned & used from my github repo, but don't forget referencing.",
+    "image": "gt.jpg",
+    "bio": "I'm godstime, but fondly called GT by many. I am a Software Engineer, an Administrative Manager / Co-founder at eespace Nigeria, and founder, Elynore-teck and i am a Media Consultant & enthusiast. I love helping people, making sure people feel safe around me and love using technology to get problem solved, that is  one of the major reason, i found myself in tech. Generally, i love technology, love travelling, making friends and i love seeing people happy.",
+    "contactmessage": "I am just a call away to helping you show-case your business and that great ideal to the world. Just a Call !.",
     "email": "lewisagho47@gmail.com",
     "phone": "+234-803-941-5912",
     "github": "https://github.com/Gtstride/",
     "project": "https://github.com/Gtstride/portfolio",
     "address": {
-      "street": "3, Ijaiye Road, Opposite Mobil Filling Station, Ogba Lagos - Nigeria",
+      "street": "On-demand - Lagos - Nigeria",
       "city": "Ikeja",
       "state": "Lagos State",
       "zip": "100001"
     },
     "website": "http://www.gtstride.com",
+    "resumedownloadOne": "https://drive.google.com/file/d/1bNhBQpZ747uGGDIORrdUHzAxui8Efs2M/view?usp=sharing",
     "resumedownload": "https://drive.google.com/file/d/1Lc4rKUtPJKB5Ji501KEcooraZPQTbCyx/view?usp=sharing",
-    "resumedownloadOne": "https://drive.google.com/file/d/1CxlnV-r0babLRop3uPuIfE76sgCYALST/view?usp=sharing",
+
     "social": [
       {
         "name": "facebook",
@@ -32,7 +33,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/godstime-omorogbe-agho-811294b1/",
+        "url": "https://www.linkedin.com/in/godstime-agho/",
         "className": "fa fa-linkedin"
       },
       {
@@ -95,6 +96,14 @@
         "level": "85%"
       },
       {
+        "name": "Chakra UI",
+        "level": "85%"
+      },
+      {
+        "name": "Flutter",
+        "level": "45%"
+      },
+      {
         "name": "NodeJS",
         "level": "85%"
       },
@@ -104,7 +113,7 @@
       },
       {
         "name": "Android Studio",
-        "level": "50%"
+        "level": "55%"
       },
       {
         "name": "Different React Frame-Work",
@@ -114,6 +123,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Education Consultant",
+        "category": "Helping People achieve their dream of furthering their education",
+        "image": "",
+        "url": "https://www.flyboxconsult.org/"
+      },
       {
         "title": "Fight Pandemics",
         "category": "Helping the world fight every pandemics that would arise",
@@ -167,6 +182,9 @@
         "category": "Get all the Information about your favorite movie in one place",
         "image": "Use.jpg",
         "url": "https://react-movie-app1.herokuapp.com/"
+      },
+      {
+        "title": "Many others to be provided on request"
       }
     ]
   }
