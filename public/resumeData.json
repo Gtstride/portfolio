@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Godstime Agho",
+    "name": "Godstime .O. Agho",
     "description": "I am a Software Engineer. I use React to structure frontend, Nodejs/Express for backend, mongodb, postgresql, firebase, AWS to manage your database with top-notch security. I am also grasping much needed knowledge on flutter for cross-platform mobile apps. This here, is my profile, can't really be exhaustive. But a one-to-one interaction with me, would actually be better. This project is one, that can be cloned & used from my github repo, but don't forget referencing.",
     "image": "gt.jpg",
-    "bio": "I'm godstime, but fondly called GT by many. I am a Software Engineer, an Administrative Manager / Co-founder at eespace Nigeria, and founder, Elynore-teck and i am a Media Consultant & enthusiast. I love helping people, making sure people feel safe around me and love using technology to get problem solved, that is  one of the major reason, i found myself in tech. Generally, i love technology, love travelling, making friends and i love seeing people happy.",
-    "contactmessage": "I am just a call away to helping you show-case your business and that great ideal to the world. Just a Call !.",
+    "bio": "I'm godstime, but fondly called GT by many. I am a Software Engineer, an Administrative Manager / Co-founder at eespace Nigeria, and founder, Digit-Up Tech and i am a Media Consultant & enthusiast. I love helping people, making sure people feel safe around me and love using technology to get problem solved, that is  one of the major reason, i found myself in tech. Generally, i love technology, love travelling, making friends and i love seeing people happy.",
+    "contactmessage": "I am just a call away to helping you show-case your business and that great ideal to the world. Just a Call!.",
     "email": "lewisagho47@gmail.com",
     "phone": "+234-803-941-5912",
     "github": "https://github.com/Gtstride/",
@@ -124,9 +124,15 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Livevend Site",
+        "category": "Get all the Information about your favorite movie in one place",
+        "image": "livevend.png",
+        "url": "https://livevend.com/"
+      }, 
+      {
         "title": "Education Consultant",
         "category": "Helping People achieve their dream of furthering their education",
-        "image": "",
+        "image": "Use.jpg",
         "url": "https://www.flyboxconsult.org/"
       },
       {
@@ -141,6 +147,7 @@
         "image": "Shirt.png",
         "url": "https://crowns-clothing.netlify.app/"
       },
+      
       {
         "title": "TMSN-RECORDS",
         "category": "The Best Music Anywhere you can get",
@@ -152,6 +159,12 @@
         "category": "Connecting Land-owners to Subsistence Farmers",
         "image": "farmLord.jpg",
         "url": "https://farmlord.netlify.app/"
+      },
+      {
+        "title": "Fricassa Photo Site",
+        "category": "Get all the Information about your favorite movie in one place",
+        "image": "fricassa.png",
+        "url": "https://www.fricassa.com/"
       },
       {
         "title": "OneScrin",
@@ -172,19 +185,10 @@
         "url": "https://react-movie-app1.herokuapp.com/"
       },
       {
-        "title": "WaYFarer",
-        "category": "Develop APIs ",
-        "image": "way.jpg",
-        "url": "https://way-farer-app1.herokuapp.com/"
-      },
-      {
-        "title": "Movie Site",
-        "category": "Get all the Information about your favorite movie in one place",
-        "image": "Use.jpg",
-        "url": "https://react-movie-app1.herokuapp.com/"
-      },
-      {
-        "title": "Many others to be provided on request"
+        "title": "Africa Film Festival",
+        "category": "Bringing Human Rights Activist Into One Umbrella",
+        "image": "aiff.png",
+        "url": "http://www.aihrff.hrjnet.org/"
       }
     ]
   }
