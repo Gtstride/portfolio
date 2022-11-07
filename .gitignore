@@ -4,3 +4,4 @@
 
 # Packages
 /package-lock.json
+.yarn
