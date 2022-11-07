@@ -4,4 +4,7 @@
 
 # Packages
 /package-lock.json
-.yarn
+/.pnp.cjs
+yarn.lock
+/.yarn
+
